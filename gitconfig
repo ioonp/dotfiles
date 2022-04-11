@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = iapara.ion.g@gmail.com
+	name = ion iapara
